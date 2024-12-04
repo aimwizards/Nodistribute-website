@@ -8,7 +8,7 @@ import { cn } from '@/lib/utils';
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/rklb8np6yc7wfamwmmz1t/Nodistribute-installer.exe?rlkey=5v6wg16xchml562zgxklf5fgj&st=ykrixl0w&dl=1";
+  const DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/lx0ofssx0khbhgjeqo1m8/Nodistribute-installer.exe?rlkey=7bwm86crl0lk1sjgc8ntcdxyi&st=iirzown8&dl=1";
 
   const footerLinks = {
     product: [
